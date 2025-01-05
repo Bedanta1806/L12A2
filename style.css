@@ -1,0 +1,44 @@
+div{
+    background-color: red;
+}
+.op1{
+    opacity: 1;
+}
+
+.op9{
+    opacity: .9;
+}
+
+.op8{
+  opacity: .8;
+}
+
+.op7{
+ opacity: .7;
+}
+
+.op6{
+ opacity: .6;
+}
+
+.op5{
+opacity: .5;
+}
+
+.op4{
+opacity: .4;
+}
+
+.op3{
+opacity: .3;
+}
+
+.op2{
+opacity: .2;
+}
+.op11{
+opacity: .1;
+}
+.op0{
+opacity: .0;
+}
